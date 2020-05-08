@@ -74,3 +74,39 @@
 	path = access-addons
 	url = https://github.com/RL-OtherApps/access-addons.git
 	branch = 12.0
+[submodule "Event-Management"]
+	path = Event-Management
+	url = https://github.com/RL-OtherApps/Event-Management.git
+	branch = 12.0
+[submodule "Mobile-Service-Management"]
+	path = Mobile-Service-Management
+	url = https://github.com/RL-OtherApps/Mobile-Service-Management.git
+	branch = 12.0
+[submodule "Front-Office-Management"]
+	path = Front-Office-Management
+	url = https://github.com/RL-OtherApps/Front-Office-Management.git
+	branch = 12.0
+[submodule "Rasool-Nawaz"]
+	path = Rasool-Nawaz
+	url = https://github.com/RL-OtherApps/Rasool-Nawaz.git
+	branch = 12.0
+[submodule "admin_export"]
+	path = admin_export
+	url = https://github.com/RL-OtherApps/admin_export.git
+	branch = 12.0
+[submodule "Libtech"]
+	path = Libtech
+	url = https://github.com/RL-OtherApps/Libtech.git
+	branch = 12.0
+[submodule "multipay"]
+	path = multipay
+	url = https://github.com/RL-OtherApps/multipay.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RL-OtherApps/YK.git
+	branch = 12.0
+[submodule "carpeta_ventas_monopark"]
+	path = carpeta_ventas_monopark
+	url = https://github.com/RL-OtherApps/carpeta_ventas_monopark.git
+	branch = 12.0
