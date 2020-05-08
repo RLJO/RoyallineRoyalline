@@ -1,0 +1,4 @@
+[submodule "All-Other"]
+	path = All-Other
+	url = git@github.com:RL-OtherApps/All-Other.git
+	branch = All
