@@ -38,3 +38,39 @@
 	path = mrp_subcontracting-backport
 	url = https://github.com/RL-OtherApps/mrp_subcontracting-backport.git
 	branch = 12.0
+[submodule "invoice_report_design"]
+	path = invoice_report_design
+	url = https://github.com/RL-OtherApps/invoice_report_design.git
+	branch = 12.0
+[submodule "odoo-base"]
+	path = odoo-base
+	url = https://github.com/RL-OtherApps/odoo-base.git
+	branch = 12.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/RL-OtherApps/misc-addons.git
+	branch = 12.0
+[submodule "CybroAddons"]
+	path = CybroAddons
+	url = https://github.com/RL-OtherApps/CybroAddons.git
+	branch = 12.0
+[submodule "odoo-cloud-platform"]
+	path = odoo-cloud-platform
+	url = https://github.com/RL-OtherApps/odoo-cloud-platform.git
+	branch = 12.0
+[submodule "odoo-af"]
+	path = odoo-af
+	url = https://github.com/RL-OtherApps/odoo-af.git
+	branch = 12.0
+[submodule "cb-addons"]
+	path = cb-addons
+	url = https://github.com/RL-OtherApps/cb-addons.git
+	branch = 12.0
+[submodule "qrtl-custom"]
+	path = qrtl-custom
+	url = https://github.com/RL-OtherApps/qrtl-custom.git
+	branch = 12.0
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/RL-OtherApps/access-addons.git
+	branch = 12.0
