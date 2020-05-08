@@ -1,0 +1,40 @@
+[submodule "odoo_addons"]
+	path = odoo_addons
+	url = https://github.com/RL-OtherApps/odoo_addons.git
+	branch = 12.0
+[submodule "addons-coopiteasy"]
+	path = addons-coopiteasy
+	url = https://github.com/RL-OtherApps/addons-coopiteasy.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RL-OtherApps/vertical-cooperative.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
+[submodule "stock"]
+	path = stock
+	url = https://github.com/RL-OtherApps/stock.git
+	branch = 12.0
+[submodule "purchase"]
+	path = purchase
+	url = https://github.com/RL-OtherApps/purchase.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons"]
+	path = clvsol_odoo_addons
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons.git
+	branch = 12.0
+[submodule "odoo-addons-1"]
+	path = odoo-addons-1
+	url = https://github.com/RL-OtherApps/odoo-addons-1.git
+	branch = 12.0
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/RL-OtherApps/pos-addons.git
+	branch = 12.0
+[submodule "mrp_subcontracting-backport"]
+	path = mrp_subcontracting-backport
+	url = https://github.com/RL-OtherApps/mrp_subcontracting-backport.git
+	branch = 12.0
