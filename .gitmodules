@@ -2,3 +2,95 @@
 	path = All-Other
 	url = git@github.com:RL-OtherApps/All-Other.git
 	branch = All
+[submodule "Odoo"]
+	path = Odoo
+	url = https://github.com/RL-OtherApps/Odoo.git
+	branch = 12.0
+[submodule "odoo-addons-3"]
+	path = odoo-addons-3
+	url = https://github.com/RL-OtherApps/odoo-addons-3.git
+	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RL-OtherApps/trey-addons.git
+	branch = 12.0
+[submodule "Omnia"]
+	path = Omnia
+	url = https://github.com/RL-OtherApps/Omnia.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RL-OtherApps/odooapps.git
+	branch = 12.0
+[submodule "odoo_modules"]
+	path = odoo_modules
+	url = https://github.com/RL-OtherApps/odoo_modules.git
+	branch = 12.0
+[submodule "qu-server-tools"]
+	path = qu-server-tools
+	url = https://github.com/RL-OtherApps/qu-server-tools.git
+	branch = 12.0
+[submodule "odoo-addons-2"]
+	path = odoo-addons-2
+	url = https://github.com/RL-OtherApps/odoo-addons-2.git
+	branch = 12.0
+[submodule "odoo_addons"]
+	path = odoo_addons
+	url = https://github.com/RL-OtherApps/odoo_addons.git
+	branch = 12.0
+[submodule "Odoo-addons-1"]
+	path = Odoo-addons-1
+	url = https://github.com/RL-OtherApps/Odoo-addons-1.git
+	branch = 12.0
+[submodule "odooplm"]
+	path = odooplm
+	url = https://github.com/RL-OtherApps/odooplm.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_mfmng"]
+	path = clvsol_odoo_addons_mfmng
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_mfmng.git
+	branch = 12.0
+[submodule "PDC-Management"]
+	path = PDC-Management
+	url = https://github.com/RLJO/PDC-Management.git
+	branch = 12.0
+[submodule "logistic"]
+	path = logistic
+	url = https://github.com/RL-OtherApps/logistic.git
+	branch = 12.0
+[submodule "GMTools"]
+	path = GMTools
+	url = https://github.com/RL-OtherApps/GMTools.git
+	branch = 12.0
+[submodule "zts-demo-v12"]
+	path = zts-demo-v12
+	url = https://github.com/RL-OtherApps/zts-demo-v12.git
+	branch = 12.0
+[submodule "Alshulah-Group"]
+	path = Alshulah-Group
+	url = https://github.com/RL-OtherApps/Alshulah-Group.git
+	branch = 12.0
+[submodule "oxp_2019"]
+	path = oxp_2019
+	url = https://github.com/RL-OtherApps/oxp_2019.git
+	branch = 12.0
+[submodule "carpeta_reporte_inventario"]
+	path = carpeta_reporte_inventario
+	url = https://github.com/RL-OtherApps/carpeta_reporte_inventario.git
+	branch = 12.0
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/RL-OtherApps/wordpress.git
+	branch = 12.0
+[submodule "odoo-eam"]
+	path = odoo-eam
+	url = https://github.com/RL-OtherApps/odoo-eam.git
+	branch = 12.0
+[submodule "sos_guards"]
+	path = sos_guards
+	url = https://github.com/RL-OtherApps/sos_guards.git
+	branch = 12.0
+[submodule "aged02"]
+	path = aged02
+	url = https://github.com/RL-OtherApps/aged02.git
+	branch = 12.0
