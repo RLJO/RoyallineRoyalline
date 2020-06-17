@@ -99,3 +99,8 @@
 	path = WithPrice/a2nsoft_ecommerce
 	url = git@github.com:WithPrice/a2nsoft_ecommerce.git
 	branch = master
+
+[submodule "WithPrice/CustomerSearchFilter"]
+	path = WithPrice/CustomerSearchFilter
+	url = git@github.com:WithPrice/CustomerSearchFilter.git
+	branch = 12.0
