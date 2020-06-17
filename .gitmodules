@@ -94,3 +94,8 @@
 	path = aged02
 	url = https://github.com/RL-OtherApps/aged02.git
 	branch = 12.0
+
+[submodule "WithPrice/3rdparty-addons"]
+	path = WithPrice/3rdparty-addons
+	url = git@github.com:WithPrice/3rdparty-addons.git
+	branch = master
