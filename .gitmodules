@@ -99,3 +99,8 @@
 	path = WithPrice/3rdparty-addon
 	url = git@github.com:WithPrice/3rdparty-addon.git
 	branch = master
+
+[submodule "vertelab/odoo-imagemagick"]
+	path = vertelab/odoo-imagemagick
+	url = git@github.com:vertelab/odoo-imagemagick.git
+	branch = 12.0
