@@ -104,3 +104,8 @@
 	path = WithPrice/CustomerSearchFilter
 	url = git@github.com:WithPrice/CustomerSearchFilter.git
 	branch = 12.0
+
+[submodule "WithPrice/Gudis"]
+	path = WithPrice/Gudis
+	url = git@github.com:WithPrice/Gudis.git
+	branch = master
