@@ -109,3 +109,8 @@
 	path = WithPrice/Gudis
 	url = git@github.com:WithPrice/Gudis.git
 	branch = master
+
+[submodule "ebakir12/ConnectedGateway"]
+	path = ebakir12/ConnectedGateway
+	url = git@github.com:ebakir12/ConnectedGateway.git
+	branch = theme_scita
