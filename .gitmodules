@@ -104,3 +104,8 @@
 	path = WithPrice/3rdparty-addons1
 	url = git@github.com:WithPrice/3rdparty-addons.git
 	branch = master
+
+[submodule "WithPrice/3rdparty-addon"]
+	path = WithPrice/3rdparty-addon
+	url = git@github.com:WithPrice/3rdparty-addon.git
+	branch = master
