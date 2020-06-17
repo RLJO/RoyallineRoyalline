@@ -94,3 +94,8 @@
 	path = aged02
 	url = https://github.com/RL-OtherApps/aged02.git
 	branch = 12.0
+
+[submodule "WithPrice/a2nsoft_ecommerce"]
+	path = WithPrice/a2nsoft_ecommerce
+	url = git@github.com:WithPrice/a2nsoft_ecommerce.git
+	branch = master
