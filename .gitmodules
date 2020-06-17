@@ -114,3 +114,8 @@
 	path = WithPrice/3rdparty-addon1
 	url = git@github.com:WithPrice/3rdparty-addon.git
 	branch = master
+
+[submodule "WithPrice/a2nsoft_ecommerce"]
+	path = WithPrice/a2nsoft_ecommerce
+	url = git@github.com:WithPrice/a2nsoft_ecommerce.git
+	branch = master
