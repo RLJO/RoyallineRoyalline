@@ -114,3 +114,8 @@
 	path = ebakir12/ConnectedGateway
 	url = git@github.com:ebakir12/ConnectedGateway.git
 	branch = theme_scita
+
+[submodule "WithPrice/weetic"]
+	path = WithPrice/weetic
+	url = git@github.com:WithPrice/weetic.git
+	branch = master
