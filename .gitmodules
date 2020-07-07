@@ -99,3 +99,8 @@
 	path = RL-OtherApps/odoo-base-addons
 	url = git@github.com:RL-OtherApps/odoo-base-addons.git
 	branch = 12.0
+
+[submodule "ShaheenHossain/itpp-labs-misc-addons13"]
+	path = ShaheenHossain/itpp-labs-misc-addons13
+	url = git@github.com:ShaheenHossain/itpp-labs-misc-addons13.git
+	branch = 12.0
