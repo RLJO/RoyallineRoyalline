@@ -104,3 +104,8 @@
 	path = ShaheenHossain/itpp-labs-misc-addons13
 	url = git@github.com:ShaheenHossain/itpp-labs-misc-addons13.git
 	branch = 12.0
+
+[submodule "ShaheenHossain/importall1213"]
+	path = ShaheenHossain/importall1213
+	url = git@github.com:ShaheenHossain/importall1213.git
+	branch = master
