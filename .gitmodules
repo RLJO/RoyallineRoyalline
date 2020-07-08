@@ -109,3 +109,8 @@
 	path = ShaheenHossain/importall1213
 	url = git@github.com:ShaheenHossain/importall1213.git
 	branch = master
+
+[submodule "RL-OtherApps/misc-addons"]
+	path = RL-OtherApps/misc-addons
+	url = git@github.com:RL-OtherApps/misc-addons.git
+	branch = 12.0
