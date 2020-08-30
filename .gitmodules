@@ -99,3 +99,8 @@
 	path = WithPrice/accioma-addons
 	url = git@github.com:WithPrice/accioma-addons.git
 	branch = 12.0
+
+[submodule "OCA-MUK/geospatial"]
+	path = OCA-MUK/geospatial
+	url = git@github.com:OCA-MUK/geospatial.git
+	branch = 12.0
